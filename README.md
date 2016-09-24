@@ -1,6 +1,7 @@
 #Учебная сборка Loftschool (выпускной проект №1) 
 
 Updated by: Pinchuk Mike
+- copy:fonts task added
 
 Stack:
  - Gulp 4.0
