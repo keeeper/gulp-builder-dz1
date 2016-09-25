@@ -2,6 +2,8 @@
 
 Updated by: Pinchuk Mike
 - copy:fonts task added
+- sprite:image task added
+- copy:image exclude 'icons' folder from being copied
 
 Stack:
  - Gulp 4.0
